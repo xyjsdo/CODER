@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.整型", "1.整型\1.整型.vcxproj", "{DEE7AFDF-458F-4EA8-BAA7-5331AAA4752C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.逻辑运算符与逻辑表达式", "11.逻辑运算符与逻辑表达式\11.逻辑运算符与逻辑表达式.vcxproj", "{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{DEE7AFDF-458F-4EA8-BAA7-5331AAA4752C}.Release|x64.Build.0 = Release|x64
 		{DEE7AFDF-458F-4EA8-BAA7-5331AAA4752C}.Release|x86.ActiveCfg = Release|Win32
 		{DEE7AFDF-458F-4EA8-BAA7-5331AAA4752C}.Release|x86.Build.0 = Release|Win32
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Debug|x64.ActiveCfg = Debug|x64
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Debug|x64.Build.0 = Debug|x64
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Debug|x86.Build.0 = Debug|Win32
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Release|x64.ActiveCfg = Release|x64
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Release|x64.Build.0 = Release|x64
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Release|x86.ActiveCfg = Release|Win32
+		{4AE61ACF-5299-4569-A4A2-28F8DE5086EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
