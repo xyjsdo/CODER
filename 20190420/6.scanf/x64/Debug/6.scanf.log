@@ -1,0 +1,4 @@
+﻿  main.c
+d:\coder\20190420\6.scanf\main.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  6.scanf.vcxproj -> D:\CODER\20190420\x64\Debug\6.scanf.exe
