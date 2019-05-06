@@ -10,3 +10,6 @@ int main()
 	printf("i=%d\n", i);
 	system("pause");
 }
+
+//位运算 与自己相异或得到0
+//与0相异或 得到自己本身
