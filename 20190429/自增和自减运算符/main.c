@@ -7,5 +7,7 @@ int main()
 	int j;
 	j = i++ > -1;//直接分成两部分， j=i>-1;i=i+1;
 	printf("i=%d,j=%d\n", i, j);
+	j = !++i;
+	printf("i=%d,j=%d\n", i, j);
 	system("pause");
 }

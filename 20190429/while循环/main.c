@@ -3,17 +3,13 @@
 
 int main()
 {
-	//不能够跳转到其他函数 
 	int i = 1;
 	int total = 0;
-label:
-	total = total + i;
-	i++;
-	if (i <= 100)
+	while (i <= 100)
 	{
-		goto label;//向上跳转实现循环
+		total = total + i;
+		i++;//使表达式趋近于无穷
 	}
 	printf("total=%d\n", total);
 	system("pause");
 }
- 
