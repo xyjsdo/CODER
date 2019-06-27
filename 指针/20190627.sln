@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.一级指针", "20190627\20190627.vcxproj", "{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.指针的传递", "7.指针的传递\7.指针的传递.vcxproj", "{753A369D-8B62-4D8E-BF1B-9817AA77542C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.指针的偏移", "8.指针的偏移\8.指针的偏移.vcxproj", "{F93003C7-FD0E-4A0A-A983-C71076911317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Debug|x64.ActiveCfg = Debug|x64
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Debug|x64.Build.0 = Debug|x64
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Debug|x86.Build.0 = Debug|Win32
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Release|x64.ActiveCfg = Release|x64
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Release|x64.Build.0 = Release|x64
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Release|x86.ActiveCfg = Release|Win32
+		{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}.Release|x86.Build.0 = Release|Win32
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Debug|x64.ActiveCfg = Debug|x64
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Debug|x64.Build.0 = Debug|x64
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Debug|x86.ActiveCfg = Debug|Win32
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Debug|x86.Build.0 = Debug|Win32
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Release|x64.ActiveCfg = Release|x64
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Release|x64.Build.0 = Release|x64
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Release|x86.ActiveCfg = Release|Win32
+		{753A369D-8B62-4D8E-BF1B-9817AA77542C}.Release|x86.Build.0 = Release|Win32
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Debug|x64.ActiveCfg = Debug|x64
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Debug|x64.Build.0 = Debug|x64
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Debug|x86.ActiveCfg = Debug|Win32
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Debug|x86.Build.0 = Debug|Win32
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x64.ActiveCfg = Release|x64
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x64.Build.0 = Release|x64
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x86.ActiveCfg = Release|Win32
+		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ACBA7D7-A88D-4883-B182-ED561D418444}
+	EndGlobalSection
+EndGlobal
