@@ -1,0 +1,5 @@
+﻿  main.c
+d:\coder\指针\10.malloc动态内存申请\main.c(9): warning C4013: “strcpy”未定义；假设外部返回 int
+d:\coder\指针\10.malloc动态内存申请\main.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  10.malloc动态内存申请.vcxproj -> D:\CODER\指针\x64\Debug\10.malloc动态内存申请.exe

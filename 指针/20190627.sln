@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.指针的传递", "7.指�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.指针的偏移", "8.指针的偏移\8.指针的偏移.vcxproj", "{F93003C7-FD0E-4A0A-A983-C71076911317}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.malloc动态内存申请", "10.malloc动态内存申请\10.malloc动态内存申请.vcxproj", "{67826DBC-CD39-4031-B251-F27B53DCEA17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x64.Build.0 = Release|x64
 		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x86.ActiveCfg = Release|Win32
 		{F93003C7-FD0E-4A0A-A983-C71076911317}.Release|x86.Build.0 = Release|Win32
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Debug|x64.ActiveCfg = Debug|x64
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Debug|x64.Build.0 = Debug|x64
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Debug|x86.ActiveCfg = Debug|Win32
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Debug|x86.Build.0 = Debug|Win32
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x64.ActiveCfg = Release|x64
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x64.Build.0 = Release|x64
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x86.ActiveCfg = Release|Win32
+		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
