@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.一级指针", "20190627\20190627.vcxproj", "{5CE7788D-5434-4FD6-8FA9-1F82FA8423BA}"
 EndProject
@@ -10,6 +10,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.指针的偏移", "8.指针的偏移\8.指针的偏移.vcxproj", "{F93003C7-FD0E-4A0A-A983-C71076911317}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.malloc动态内存申请", "10.malloc动态内存申请\10.malloc动态内存申请.vcxproj", "{67826DBC-CD39-4031-B251-F27B53DCEA17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.字符指针与字符数组的初始化", "11.字符指针与字符数组的初始化\11.字符指针与字符数组的初始化.vcxproj", "{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.二级指针的传递", "13.二级指针的传递\13.二级指针的传递.vcxproj", "{308C3041-6491-409A-B32D-7CD1B3E09D06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.二级指针的偏移", "14.二级指针的偏移\14.二级指针的偏移.vcxproj", "{407BB683-8945-4047-B110-6C1A58368B54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,30 @@ Global
 		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x64.Build.0 = Release|x64
 		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x86.ActiveCfg = Release|Win32
 		{67826DBC-CD39-4031-B251-F27B53DCEA17}.Release|x86.Build.0 = Release|Win32
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Debug|x64.ActiveCfg = Debug|x64
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Debug|x64.Build.0 = Debug|x64
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Debug|x86.ActiveCfg = Debug|Win32
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Debug|x86.Build.0 = Debug|Win32
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Release|x64.ActiveCfg = Release|x64
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Release|x64.Build.0 = Release|x64
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Release|x86.ActiveCfg = Release|Win32
+		{8766CD70-BC25-4F48-BB5C-5C2708DC4F99}.Release|x86.Build.0 = Release|Win32
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Debug|x64.ActiveCfg = Debug|x64
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Debug|x64.Build.0 = Debug|x64
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Debug|x86.ActiveCfg = Debug|Win32
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Debug|x86.Build.0 = Debug|Win32
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Release|x64.ActiveCfg = Release|x64
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Release|x64.Build.0 = Release|x64
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Release|x86.ActiveCfg = Release|Win32
+		{308C3041-6491-409A-B32D-7CD1B3E09D06}.Release|x86.Build.0 = Release|Win32
+		{407BB683-8945-4047-B110-6C1A58368B54}.Debug|x64.ActiveCfg = Debug|x64
+		{407BB683-8945-4047-B110-6C1A58368B54}.Debug|x64.Build.0 = Debug|x64
+		{407BB683-8945-4047-B110-6C1A58368B54}.Debug|x86.ActiveCfg = Debug|Win32
+		{407BB683-8945-4047-B110-6C1A58368B54}.Debug|x86.Build.0 = Debug|Win32
+		{407BB683-8945-4047-B110-6C1A58368B54}.Release|x64.ActiveCfg = Release|x64
+		{407BB683-8945-4047-B110-6C1A58368B54}.Release|x64.Build.0 = Release|x64
+		{407BB683-8945-4047-B110-6C1A58368B54}.Release|x86.ActiveCfg = Release|Win32
+		{407BB683-8945-4047-B110-6C1A58368B54}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
