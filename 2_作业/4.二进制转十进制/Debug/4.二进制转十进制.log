@@ -1,1 +1,7 @@
-﻿LINK : fatal error LNK1104: 无法打开文件“D:\xyj\CODER\2_作业\Debug\4.二进制转十进制.exe”
+﻿  main.c
+D:\xyj\CODER\2_作业\4.二进制转十进制\main.c(15,18): warning C4473:  “scanf_s”: 没有为格式字符串传递足够的参数
+D:\xyj\CODER\2_作业\4.二进制转十进制\main.c(15,18): message :  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\xyj\CODER\2_作业\4.二进制转十进制\main.c(15,18): message :  缺失的可变参数 2 为格式字符串“%c”所需
+D:\xyj\CODER\2_作业\4.二进制转十进制\main.c(15,18): message :  此参数用作缓冲区大小
+D:\xyj\CODER\2_作业\4.二进制转十进制\main.c(21,10): warning C4013:  “gets”未定义；假设外部返回 int
+  4.二进制转十进制.vcxproj -> D:\xyj\CODER\2_作业\Debug\4.二进制转十进制.exe

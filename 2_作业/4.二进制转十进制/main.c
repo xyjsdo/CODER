@@ -4,12 +4,14 @@
 #include <string.h>
 int main()
 {
-	char a;
-	int i = 0, sum = 0;
-	char c[32] = {0};
-	char lease[20];
+
 CHECK:
 		printf("请输入二进制数>>");
+		char a;
+		int i = 0, sum = 0;
+		char c[32] = {0};
+		char lease[20];
+		int j;
 		while (scanf_s("%c", &a) != EOF)
 		{
 			if (a > '1' || a < '0')
@@ -23,10 +25,10 @@ CHECK:
 			}
 			if (a == '\n')
 			{
-				for (i; i > 0; i--) {
-					sum += (c[i-1] - '0') * ((int)pow(2, i - 1));
+				for (j=0; j<i; j++) {
+					sum += (c[j] - '0') * ((int)pow(2, i-j-1));
 				}
-				printf("十进制数为%d\n", sum);
+				printf("十进制数为:%d\n", sum);
 				i = 0;
 				sum = 0;
 				goto CHECK;
